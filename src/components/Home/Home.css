@@ -74,6 +74,10 @@
   max-width: 90%;
 }
 
+.modal-content{
+  color: black;
+}
+
 .modal-actions {
   display: flex;
   justify-content: flex-end;
